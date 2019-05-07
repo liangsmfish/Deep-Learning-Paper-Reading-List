@@ -1,4 +1,4 @@
-:bulb: means I have fully finished reading it  :hourglass_flowing_sand: means I just skim on it
+:bulb: means I have fully finished reading it     :hourglass_flowing_sand: means I just skim on it
 # GAN-Papers
 ### Baseline
 :bulb: Generative Adversarial Nets ([paper](https://arxiv.org/abs/1406.2661))([pytorch](https://github.com/eriklindernoren/PyTorch-GAN#gan))([keras](https://github.com/eriklindernoren/Keras-GAN))
