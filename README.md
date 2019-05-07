@@ -6,5 +6,5 @@
 
 ### Audio
 ### Image generation
-:bulb: (DCGAN)Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks([paper](https://arxiv.org/abs/1511.06434))([tensorflow](https://github.com/carpedm20/DCGAN-tensorflow))
+:bulb: Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks([paper](https://arxiv.org/abs/1511.06434))([tensorflow](https://github.com/carpedm20/DCGAN-tensorflow))
 # Other-papers
